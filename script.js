@@ -10,12 +10,12 @@ const gifStages = [
 ]
 
 const noMessages = [
-    "I bet you to click 'no' this first",
-    "Are you positive? 🤔",
+    "No",
+    "Are you positive cintah? 🤔",
     "Cintah please... 🥺",
-    "If you say no, I will be really sad...",
-    "I will be very sad... 😢",
-    "Please??? 💔",
+    "If you say no, I will be really sad my alda...",
+    "Permata, I will be very sad... 😢",
+    "Manik, Please??? 💔",
     "Don't do this to me...",
     "Last chance! 😭",
     "You can't catch me anyway 😜"
